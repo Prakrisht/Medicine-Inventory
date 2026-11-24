@@ -6,7 +6,7 @@ The **Medicine Inventory Management System** is a Python-based application desig
 
 This project aims to simplify medicine inventory management and reduce manual record-keeping.
 
-## ✨ Features
+##  Features
 
 - **Medicine Inventory Management:** Maintain medicine inventory records.
 - **Add and Manage Stock:** Manage available medicines and their quantities.
@@ -21,7 +21,7 @@ This project aims to simplify medicine inventory management and reduce manual re
 - File Handling
 - Object-Oriented / Modular Programming (where applicable)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Medicine-Inventory/
@@ -62,7 +62,7 @@ If your system uses Python 3 through the `python3` command, run:
 python3 main.py
 ```
 
-## 🚀 How to Use
+##  How to Use
 
 1. Run the application using `main.py`.
 2. Follow the instructions displayed by the application.
@@ -71,7 +71,7 @@ python3 main.py
 5. Process medicine sales.
 6. Generate invoices for sales transactions.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Simplify medicine inventory management.
 - Maintain accurate medicine stock records.
@@ -79,10 +79,5 @@ python3 main.py
 - Reduce manual inventory management.
 - Improve efficiency in managing medicine records.
 
-
-
-## 📜 License
-
-This project is created for educational and learning purposes.
 
 ---
